@@ -1,5 +1,5 @@
 {
-  "name": "aincoder/toast-ui-vue-calendar",
+  "name": "@aincoder/toast-ui-vue-calendar",
   "version": "0.0.1",
   "description": "TOAST UI Calendar for Vue",
   "main": "dist/toastui-vue-calendar.js",
